@@ -1,6 +1,6 @@
 # Radish Frontend Challenge
 
-The following describes a development challenge to help test Frontend related skills in Web3 areas for future [Radishers <sup>1</sup>](https://github.com/rabani-to/challenge-frontend#notes).
+The following file describes a Development Challenge to help on testing Frontend-related skills in Web3 areas for future [Radishers <sup>1</sup>](https://github.com/rabani-to/challenge-frontend#notes).
 
 ## Abstract
 
@@ -34,7 +34,7 @@ We do know this will be easy for you… so, to level this up you can add your cu
 
 ## What we expect from you
 
-We’ll dive into the way you solve problems, and expect a clean, good code. We’ll be watching your git history 👀.
+We’ll deep dive into the way you solve problems, and expect a clean, good code. I’ll be watching your git history 👀.
 
 The core of this challenge is to understand how you handle to create a software with the guide of the all mighty google and AAVE/Compound docs. Apart from that, we expect you consider Distributed System trickery needed in distributed software, wrong states, remote state sync and ultimately, how output that to end users.
 
@@ -42,11 +42,11 @@ We won't accept code only solutions, we expect your challenge to be served in a 
 
 ## Sending your solution
 
-You can apply even if the position is still not available at Linkedin or Angel.co, please note that we do NOT want to make this challenge just for the sake of doing a “job application”.
+You can apply even if the position is still not available at Linkedin or Angel.co, please note that we do NOT want to make this challenge just for the sake of doing a `“job application”`.
 
 Use this form for sending your solution, https://airtable.com/shr6daSdtLc6183ld, and remember you’ll only have 3 days to finish.
 
-> Note: You can choose any network, be it mainnet or testent. Build the app your way!
+***Note:** You can choose any network, be it mainnet or testent. Build the app your way!*
 
 ## Resources
 
