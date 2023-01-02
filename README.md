@@ -1,6 +1,6 @@
 # Radish Frontend Challenge
 
-The following describes a development challenge to help test Frontend related skills in Web3 areas for [Radishers <sup>1</sup>](https://github.com/rabani-to/challenge-frontend#notes).
+The following describes a development challenge to help test Frontend related skills in Web3 areas for future [Radishers <sup>1</sup>](https://github.com/rabani-to/challenge-frontend#notes).
 
 ## Abstract
 
@@ -12,7 +12,7 @@ We’re creating this little-yet open to awesomeness frontend challenge to show 
 
 ## The Challenge
 
-Your goal as a Frontend developer is to list at least 2(ETH, USDC, DAI) AAVE or Compound Asset pools, and allow users to approve a deposit, so they can add some liquidity.
+Your goal as a Frontend developer is to list at least 2(`ETH, USDC, DAI`) AAVE or Compound Asset pools, and allow users to approve a deposit, so they can add some liquidity.
 
 ## What we expect the app to do
 
@@ -34,18 +34,19 @@ We do know this will be easy for you… so, to level this up you can add your cu
 
 ## What we expect from you
 
-We’ll dive into the way you solve problems, and expect a clean, good code. We’ be watching your git history : ).
-The core of this challenge is to understand how you handle to create a software with the guide of the all mighty google and docs.
+We’ll dive into the way you solve problems, and expect a clean, good code. We’ll be watching your git history 👀.
 
-Apart from that, we expect you consider Distributed System trickery needed in distributed software, possible wrong states. Remote state sync and how you can output that to the user, so it understands what’s happening.
+The core of this challenge is to understand how you handle to create a software with the guide of the all mighty google and AAVE/Compound docs. Apart from that, we expect you consider Distributed System trickery needed in distributed software, wrong states, remote state sync and ultimately, how output that to end users.
 
-We expect your challenge to be served in a live URL. You can use Vercel, Netlify, Github/Gitlab Pages to do so.
+We won't accept code only solutions, we expect your challenge to be served in a live URL. You can use Vercel, Netlify, Github/Gitlab Pages to do so.
 
 ## Sending your solution
 
 You can apply even if the position is still not available at Linkedin or Angel.co, please note that we do NOT want to make this challenge just for the sake of doing a “job application”.
 
 Use this form for sending your solution, https://airtable.com/shr6daSdtLc6183ld, and remember you’ll only have 3 days to finish.
+
+> Note: You can choose any network, be it mainnet or testent. Build the app your way!
 
 ## Resources
 
@@ -56,6 +57,4 @@ Use this form for sending your solution, https://airtable.com/shr6daSdtLc6183ld,
 
 ## Notes
 
-**Radisher:** A Radish team member.
-
-> Note: You can choose any network, be it mainnet or testent. Build the app your way!
+**Radisher:** A Radish team member 🤘.
