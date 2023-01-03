@@ -4,11 +4,11 @@ The following file describes a Development Challenge to help on testing Frontend
 
 ## Abstract
 
-Frontend Developers nowadays need to handle a huge-unpredictable amount of local app flow.
+With the current state of the Web, Frontend Developers need to handle a huge-unpredictable amount of local state when crafting Software.
 
-Since JAM Stack revolution we’ve being serving content directly to clients, in Web3 you need to add the learning curve of wallets, transactions and understanding why the poor Solana is so down : (
+Since JAMStack revolution we’ve being serving content directly to clients. In Web3 you need to add the learning curve of wallets, transactions, unpredictable gas errors, and trying to understand why the poor Solana is going that low : (
 
-We’re creating this little-yet open to awesomeness frontend challenge to show off the world your web3-ish skills!
+Take the following challenge like a little-yet-open to awesomeness entry point for developers to show off the world their Web3-ish skills!
 
 ## The Challenge
 
@@ -38,7 +38,7 @@ We’ll deep dive into the way you solve problems, and expect a clean, good code
 
 The core of this challenge is to understand how you handle to create a software with the guide of the all mighty google and AAVE/Compound docs. Apart from that, we expect you consider the Distributed System trickery needed when building software for The Space, things like, wrong states, remote state sync and ultimately, how you output that information to end users.
 
-We won't accept `code only` solutions, we expect your challenge to be served in a live URL. To serve your app we suggest using Vercel, Netlify or Github/Gitlab Pages.
+We won't accept `code only` solutions, we expect your challenge to be served in a live URL. To serve your app, use Vercel, Netlify or Github/Gitlab Pages.
 
 👩‍🚀 Put references to the codebase in your App Footer or anywhere you'll like to.
 
