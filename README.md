@@ -14,6 +14,8 @@ Take the following challenge like a little-yet-open to awesomeness entry point f
 
 Your goal is to create a platform with at least 2(`ETH, USDC or DAI`) AAVE/Compound asset pools, where users can approve a deposit, to lastly add its available balance to a pool.
 
+**Suggested Stack:** TypeScript, NextJS, TailwindCSS & Wagmi/Rainbowkit.
+
 ## What we expect the app to do
 
 - Users can connect/disconnect using their wallet (We suggest using Rainbowkit)
@@ -41,6 +43,7 @@ The core of this challenge is to understand how you handle to create a software 
 We won't accept `code only` solutions, we expect your challenge to be served in a live URL. To serve your app, use Vercel, Netlify or Github/Gitlab Pages.
 
 👩‍🚀 Put references to the codebase in your App Footer or anywhere you'll like to.
+
 
 ## Sending your solution
 
