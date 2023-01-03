@@ -12,7 +12,7 @@ We’re creating this little-yet open to awesomeness frontend challenge to show 
 
 ## The Challenge
 
-Your goal as a Frontend developer is to list at least 2(`ETH, USDC, DAI`) AAVE or Compound Asset pools, and allow users to approve a deposit, so they can add some liquidity.
+Your goal is to create a platform with at least 2(`ETH, USDC or DAI`) AAVE/Compound asset pools, where users can approve a deposit, to lastly add its available balance to a pool.
 
 ## What we expect the app to do
 
@@ -25,7 +25,7 @@ Your goal as a Frontend developer is to list at least 2(`ETH, USDC, DAI`) AAVE o
 
 ## Hey, that's not rocket science
 
-🧐 We do know this will be easy for you… so, to make the app even cooler for users you pick one, or two of these:
+🧐 We do know this will be easy for you… so, to make the app even cooler for users you can pick one, or two of these:
 
 - As a user, I can see my possible earnings based on the APY (see https://governance.aave.com/t/how-is-the-amount-of-interest-determined-when-withdrawing/11221)
 - As a user, I can withdraw assets from pools I’ve deposited assets to
