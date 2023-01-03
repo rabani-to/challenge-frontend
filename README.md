@@ -36,13 +36,15 @@ Your goal is to create a platform with at least 2(`ETH, USDC or DAI`) AAVE/Compo
 
 We’ll deep dive into the way you solve problems, and expect a clean, good code. I’ll be watching your git history 👀.
 
-The core of this challenge is to understand how you handle to create a software with the guide of the all mighty google and AAVE/Compound docs. Apart from that, we expect you consider Distributed System trickery needed in distributed software, wrong states, remote state sync and ultimately, how output that to end users.
+The core of this challenge is to understand how you handle to create a software with the guide of the all mighty google and AAVE/Compound docs. Apart from that, we expect you consider the Distributed System trickery needed when building software for The Space, things like, wrong states, remote state sync and ultimately, how you output that information to end users.
 
-We won't accept code only solutions, we expect your challenge to be served in a live URL. To serve your app we suggest using Vercel, Netlify or Github/Gitlab Pages.
+We won't accept `code only` solutions, we expect your challenge to be served in a live URL. To serve your app we suggest using Vercel, Netlify or Github/Gitlab Pages.
+
+👩‍🚀 Put references to the codebase in your App Footer or anywhere you'll like to.
 
 ## Sending your solution
 
-You can apply even if the position is still not available at Linkedin or Angel.co, please note that we do NOT want to make this challenge just for the sake of doing a `“job application”`.
+You can apply even if the position is still not available at Linkedin or Angel.co, please note that we do NOT want you to make this challenge just for the sake of doing a `“job application”`.
 
 Use this form for sending your solution, https://airtable.com/shr6daSdtLc6183ld, and remember you’ll only have 3 days to finish.
 
