@@ -44,7 +44,7 @@ We won't accept `code only` solutions, we expect your challenge to be served in 
 
 ## Sending your solution
 
-You can apply even if the position is still not available at Linkedin or Angel.co, please note that we do NOT want you to make this challenge just for the sake of doing a `“job application”`.
+You can apply even if the position is still not available at Linkedin or Angel.co, please note that we do NOT want you to make this challenge just for the sake of doing a `“job application”`. Make it your portfolio, apply to a grant, or elaborate a new product for The Space 🥰.
 
 Use this form for sending your solution, https://airtable.com/shr6daSdtLc6183ld, and remember you’ll only have 3 days to finish.
 
